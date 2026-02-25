@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/provision-labs/.github/main/profile/org-logo.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/Provision-Labs/.github/main/profile/org-logo.png" width="180"/>
 </p>
 
 <h1 align="center">Provision Labs</h1>
@@ -32,11 +32,11 @@ We build tools that:
 **ProvisionHub** is our main platform project — a self-service infrastructure and application provisioning system.
 
 It enables:
-- System scaffolding
-- Component generation (backend, frontend, database, async, etc.)
-- Git-native workflows
-- Async provisioning (workers + queue)
-- Optional GitOps integration (ArgoCD)
+- System scaffolding (WIP)
+- Component generation (backend, frontend, database, async, etc.) (WIP)
+- Git-native workflows (WIP)
+- Async provisioning (workers + queue) (WIP)
+- Optional GitOps integration (ArgoCD) (WIP)
 
 > Build platforms, not just projects.
 
