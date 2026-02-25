@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="provision-labs-logo.png" width="180"/>
+  <img src="provision-labs-logo-wo-bg.png" width="180"/>
 </p>
 
 <h1 align="center">Provision Labs</h1>
