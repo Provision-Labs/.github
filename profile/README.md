@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Provision-Labs/.github/main/profile/org-logo.png" width="180"/>
+  <img src="provision-labs-logo.png" width="180"/>
 </p>
 
 <h1 align="center">Provision Labs</h1>
